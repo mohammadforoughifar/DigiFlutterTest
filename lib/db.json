@@ -1,0 +1,33 @@
+{
+  "posts": [
+    { "id": 1, "title": "Hello World" },
+    { "id": 2, "title": "Json Server" }
+  ],
+  "comments": [
+    { "id": 1, "body": "This is a comment", "postId": 1 }
+  ],
+  "products": [
+    {"title":"برنام ", "img_url": "images/1.jpg","price": 20000},
+    {"title": "برنامه نویسی فلاتر", "img_url": "images/1.jpg","price": 20000},
+    {"title": "برنامه نویسی فلاتر", "img_url": "images/1.jpg","price": 20000},
+    {"title": "برنامه نویسی فلاتر", "img_url": "images/1.jpg","price": 20000},
+    {"title": "برنامه نویسی فلاتر", "img_url": "images/1.jpg","price": 20000},
+    {"title": "برنامه نویسی فلاتر", "img_url": "images/1.jpg","price": 20000}
+  ],
+  "poorfroshtarin": [
+    {"title":"برنام ", "img_url": "https://toplearn.com/img/course/%D8%AF%D9%88%D8%B1%D9%87_%D8%A2%D9%85%D9%88%D8%B2%D8%B4_%D8%B2%D8%A8%D8%A7%D9%86_go_%D8%A8%D9%87_%D9%87%D9%85%D8%B1%D8%A7%D9%87_%D9%BE%D8%B1%D9%88%DA%98%D9%87.jpg","price": 500000},
+    {"title": "برنامه نویسی فلاتر", "img_url": "https://toplearn.com/img/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_azure_devops.jpg","price": 600000},
+    {"title": "برنامه نویسی فلاتر", "img_url": "https://toplearn.com/img/Reportage/9097430509df4253985361a41b96c083.jpg","price": 700000},
+    {"title": "برنامه نویسی فلاتر", "img_url": "https://toplearn.com/img/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4_%D8%B3%D8%B1%D8%B9%D8%AA_%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA_%D9%87%D8%A7%DB%8C_%D8%AA%D8%AD%D8%AA_php_(%D9%84%D8%A7%D8%B1%D8%A7%D9%88%D9%84_%D8%8C_%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3).jpg","price": 80000},
+    {"title": "برنامه نویسی فلاتر", "img_url": "https://toplearn.com/img/course/%D9%85%D8%AA%D8%AE%D8%B5%D8%B5_%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C_%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87_%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C_%D8%A8%D8%A7_%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3_%E2%80%93_%D9%85%D8%AA%D8%AE%D8%B5%D8%B5_%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3_%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87%DB%8C.jpg","price": 900000},
+    {"title": "برنامه نویسی فلاتر", "img_url": "https://toplearn.com/img/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_%D8%AC%D8%A7%D9%85%D8%B9_%D8%B3%D8%A7%D8%AE%D8%AA_%D8%A8%D8%A7%D8%B2%DB%8C_%D8%A8%D8%A7_%DB%8C%D9%88%D9%86%DB%8C%D8%AA%DB%8C_(_%D9%BE%D8%B1%D9%88%DA%98%D9%87_%D9%85%D8%AD%D9%88%D8%B1).jpg","price": 1030000}
+  ],
+  "Slider": [
+    {"title":"برنام ", "img_url": "https://toplearn.com/img/course/%D8%AF%D9%88%D8%B1%D9%87_%D8%A2%D9%85%D9%88%D8%B2%D8%B4_%D8%B2%D8%A8%D8%A7%D9%86_go_%D8%A8%D9%87_%D9%87%D9%85%D8%B1%D8%A7%D9%87_%D9%BE%D8%B1%D9%88%DA%98%D9%87.jpg"},
+    {"title": "برنامه نویسی فلاتر", "img_url": "https://toplearn.com/img/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_azure_devops.jpg"},
+    {"title": "برنامه نویسی فلاتر", "img_url": "https://toplearn.com/img/Reportage/9097430509df4253985361a41b96c083.jpg"},
+    {"title": "برنامه نویسی فلاتر", "img_url": "https://toplearn.com/img/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4_%D8%B3%D8%B1%D8%B9%D8%AA_%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA_%D9%87%D8%A7%DB%8C_%D8%AA%D8%AD%D8%AA_php_(%D9%84%D8%A7%D8%B1%D8%A7%D9%88%D9%84_%D8%8C_%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3).jpg"},
+    {"title": "برنامه نویسی فلاتر", "img_url": "https://toplearn.com/img/course/%D9%85%D8%AA%D8%AE%D8%B5%D8%B5_%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C_%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87_%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C_%D8%A8%D8%A7_%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3_%E2%80%93_%D9%85%D8%AA%D8%AE%D8%B5%D8%B5_%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3_%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87%DB%8C.jpg"},
+    {"title": "برنامه نویسی فلاتر", "img_url": "https://toplearn.com/img/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4_%D8%AC%D8%A7%D9%85%D8%B9_%D8%B3%D8%A7%D8%AE%D8%AA_%D8%A8%D8%A7%D8%B2%DB%8C_%D8%A8%D8%A7_%DB%8C%D9%88%D9%86%DB%8C%D8%AA%DB%8C_(_%D9%BE%D8%B1%D9%88%DA%98%D9%87_%D9%85%D8%AD%D9%88%D8%B1).jpg"}
+  ]
+}
