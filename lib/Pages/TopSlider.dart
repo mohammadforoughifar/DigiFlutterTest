@@ -7,7 +7,7 @@ class TopList extends StatelessWidget {
   List<product> products = [];
 
   Future<void> getAllProducts() async {
-    var url = "http://192.168.100.8:3000/products";
+    var url = "http://localhost:3000/products";
 
     await http.get(Uri.parse(url)).then((response) {
       print(response.statusCode);

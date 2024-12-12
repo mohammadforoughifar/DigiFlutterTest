@@ -16,7 +16,7 @@ class _PoorfroshtarinState extends State<Poorfroshtarin> {
   List<product> Products = [];
 
   Future<void> getAllProducts() async {
-    var url = "http://192.168.100.8:3000/poorfroshtarin";
+    var url = "http://localhost:3000/poorfroshtarin";
 
     await http.get(Uri.parse(url)).then((response) {
 

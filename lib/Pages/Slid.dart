@@ -23,7 +23,7 @@ String ll="";
 
     Future<void> GetAllSlider() async
     {
-      var url="http://192.168.100.8:3000/Slider";
+      var url="http://localhost:3000/Slider";
       await http.get(Uri.parse(url)).then((respose)
 
       {
