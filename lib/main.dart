@@ -36,9 +36,9 @@ void main()
         scrollDirection: Axis.vertical,
         child: Column(
               children: [
-                Slid(),
+              //  Slid(),
                 TopList(),
-                Poorfroshtarin(),
+             //   Poorfroshtarin(),
 
               ],
             ),
